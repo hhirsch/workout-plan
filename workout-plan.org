@@ -2,16 +2,22 @@
 #+AUTHOR:    Henry Hirsch
 #+OPTIONS:   toc:nil
 #+OPTIONS:   num:nil
+#+OPTIONS:   timestamp:nil
+#+OPTIONS:   date:nil
 #+LATEX_HEADER: \usepackage{xcolor} \usepackage{geometry} \geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
 #+begin_export latex
 \definecolor{darkblue}{RGB}{0, 0, 139}
 \definecolor{darkgreen}{RGB}{0, 139, 0}
 #+end_export  
-
-
-
+* Supplemental Information
 Visit https://yuhonas.github.io/free-exercise-db/ for a description of the exercises.
 Check out the supplemental material "Working Out" for more information on nutrition and exercise volume.
+
+-----
+#+begin_export latex
+Copyright \small{\copyright}  \the\year{} Henry Hirsch.\\
+#+end_export  
+This text is licensed under the [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 License]].
 
 * Equipment
 Equipment that is used in this plan:
