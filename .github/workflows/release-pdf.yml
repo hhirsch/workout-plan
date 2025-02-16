@@ -17,10 +17,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y emacs
+          sudo apt-get install -y texlive-latex-extra
 
       - name: Convert Org to PDF
         run: |
-          emacs --batch -l org -eval "(org-babel-do-load-languages 'org-babel-load-languages '((org . t)))" -f org-export-to-pdf workout-plan.org
+          emacs --batch -l org -eval "(org-babel-do-load-languages 'org-babel-load-languages '((org . t)))" -f org-latex-export-to-pdf workout-plan.org
 
       - name: Create GitHub Release
         id: create_release
