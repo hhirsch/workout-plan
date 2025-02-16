@@ -21,8 +21,7 @@ jobs:
 
       - name: Convert Org to PDF
         run: |
-          emacs --batch -l org -eval "(setq org-export-output-file-name \"workout-plan.pdf\")" -eval "(org-babel-do-load-languages 'org-babel-load-languages '((org . t)))" -f org-latex-export-to-pdf workout-plan.org
-
+          emacs --batch -l org -eval "(org-babel-do-load-languages 'org-babel-load-languages '((org . t)))" -f org-latex-export-to-pdf workout-plan.org
       - name: Create GitHub Release
         id: create_release
         uses: softprops/action-gh-release@v1
