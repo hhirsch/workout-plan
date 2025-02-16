@@ -22,11 +22,8 @@ jobs:
       - name: Convert Org to PDF
         run: |
           emacs --batch -q --eval '(progn (find-file "workout-plan.org") (org-latex-export-to-pdf))'
-      - name: Create GitHub Release
-        id: create_release
+      - name: Release
         uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
         with:
-          tag_name: ${{ github.ref }}
           files: workout-plan.pdf
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
