@@ -1,0 +1,32 @@
+name: Convert Org-mode to PDF
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'  # Trigger on new version tags
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Emacs
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y emacs
+
+      - name: Convert Org to PDF
+        run: |
+          emacs --batch -l org -eval "(org-babel-do-load-languages 'org-babel-load-languages '((org . t)))" -f org-export-to-pdf workout-plan.org
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref }}
+          files: workout-plan.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
