@@ -22,7 +22,7 @@ jobs:
       - name: Convert Org to PDF
         run: emacs --batch -q --eval '(progn (find-file "workout-plan.org") (org-latex-export-to-pdf))'
       - name: Create Release
-      - uses: "marvinpinto/action-automatic-releases@latest"
+        uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
