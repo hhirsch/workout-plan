@@ -1,0 +1,112 @@
+#+TITLE:     Full Body Workout Plan
+#+AUTHOR:    Henry Hirsch
+#+OPTIONS:   toc:nil
+#+OPTIONS:   num:nil
+#+LATEX_HEADER: \usepackage{xcolor} \usepackage{geometry} \geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
+#+begin_export latex
+\definecolor{darkblue}{RGB}{0, 0, 139}
+\definecolor{darkgreen}{RGB}{0, 139, 0}
+#+end_export  
+
+
+
+Visit https://yuhonas.github.io/free-exercise-db/ for a description of the exercises.
+Check out the supplemental material "Working Out" for more information on nutrition and exercise volume.
+
+* Equipment
+Equipment that is used in this plan:
+- a bench
+- two dumbbells
+- barbell
+- hooks with safety catches or a lifting cage [fn:: You can do most of the exercises that require a bench on the floor or on a chair if you don't have a bench.]
+- weights
+- yoga mat
+* Glossar
+anterior - front, posterior - rear, clavicular - near the clavicula, sternal - near the sternum
+#+begin_export latex
+  \clearpage
+  \pagenumbering{gobble}
+#+end_export  
+* Chest, Back, Bicep, Core
+** Gym
+- bench press (pectoralis major, anterior deltoideus and triceps brachii) [fn:1]
+- incline bench press (clavicular head of pectoralis major, anterior deltoideus) [fn:1]
+- floor dumbbell fly (pectoralis major, anterior deltoideus) [fn:1]
+- alternating isometric dumbbell curls [fn:: End a repetition in the flexed position.]
+- hammer curls (biceps brachii)
+- isolation curls (biceps brachii)
+- isolation dumbbell row (latissimus dorsi) [fn:: Elbow pointing behind you, close to the torso. Bring weight to your waist.]
+- landmine chest press (clavicular and sternal head of pectoralis major)   
+- weighted russian twist (obliquus externus abdominis, o. internus abdominis)
+** Home
+- lying leg raise (rectus abdominis)
+- lying lateral leg raise (obliquus externus abdominis, o. internus abdominis, gluteus medius)
+- push up (pectoralis major, p. minor, triceps brachii, anterior deltoideus,rectus abdominis, transversus abdominis) [fn:3]
+- crunch
+- plank [fn:3]
+- russian twist (obliquus externus abdominis, o. internus abdominis)
+- bicycle crunch (obliquus externus abdominis, o. internus abdominis)
+- \textcolor{darkgreen}{seated russian twist} (obliquus externus abdominis, o. internus abdominis)  
+- \textcolor{darkgreen}{standing crunch} (obliquus externus abdominis, o. internus abdominis)  
+- \textcolor{darkgreen}{lying heel touch} (obliquus externus abdominis, o. internus abdominis) [fn:: Lie on your back with your knees bent and feet flat. Reach your hand towards your heel, alternating sides.]  
+#+begin_export latex
+  \clearpage
+#+end_export  
+* Shoulders, Forearms, Hands
+** Gym
+- reverse barbell curl (brachioradialis, biceps brachii) [fn:: Grip the bar with your hands facing down.]
+- reverse barbell wrist curl [fn:: Sitting, forearms on the bench, palms of the hand facing down gripping the barbell. Pull the wrists up.]
+- dumbbell wrist curl
+- overhead press (anterior deltoideus)
+- lateral raise
+- upright rows (deltoideus)
+- inverted standing fly  
+- plate pinches
+- external shoulder rotation
+** Home
+- isometric pike hold
+- pike push up
+#+begin_export latex
+  \clearpage
+#+end_export
+* Back, Tricep, Bicep
+** Gym
+- bent over barbell row (posterior deltoideus, infraspinatus, teres minor, supraspinatus, subscapularis)
+- isolation curl (biceps brachii)
+- isolation tricep extension (triceps brachii) [fn:: Isolated on one side dumbbell behind the head.]
+- floor skull crusher (triceps brachii) [fn:: Make sure to get the dumbbells besides the ears not on top of the head.]
+- dips (triceps brachii)
+- standing dumbbell tricep kickback (triceps brachii)
+- isolation dumbbell tricep kickback (triceps brachii)
+** Home
+- push up
+- diamond push up
+- elbow plank
+#+begin_export latex
+  \clearpage
+#+end_export
+* Glutes, Quads, Hamstring, Calves, Core, Traps
+** Gym
+- farmer walk [fn:: Slightly shrug your shoulders. Make sure to hold the dumbbells with a firm grip to activate your forearms.]
+- walking lunge [fn:1]
+- squat [fn:1]
+- overhead squat[fn:1]
+- box squat[fn:1][fn:2]
+- romanian deadlift[fn:: During the romanian deadlift the bar does not touch the ground like with a regular deadlift. The exercise focuses on hamstrings and glutes.][fn:2]
+- deadlift [fn:1]
+- seated calf raise
+- shrug
+- good morning (gluteus maximus, semimembranosus, semitendinosus, biceps femoris, erector spinae )[fn:: Go low in weight. Don't round the spine. Be extra observant of proper form.][fn:2]
+- hip thrust  
+** Home
+- mountain climber
+- banded side step
+- wall seat [fn:1][fn:2]
+- side plank
+
+* Footnotes
+
+[fn:3] Make this exercise easier getting on your knees. 
+[fn:1] compound exercise
+[fn:2] Minimizes movement of the knee joints.
+
