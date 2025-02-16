@@ -4,7 +4,8 @@ on:
   push:
     tags:
       - 'v*.*.*'  # Trigger on new version tags
-
+permissions:
+  contents: write
 jobs:
   convert:
     runs-on: ubuntu-latest
