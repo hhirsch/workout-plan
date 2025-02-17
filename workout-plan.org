@@ -47,13 +47,11 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 - lying leg raise (rectus abdominis)
 - lying lateral leg raise (obliquus externus abdominis, o. internus abdominis, gluteus medius)
 - push up (pectoralis major, p. minor, triceps brachii, anterior deltoideus,rectus abdominis, transversus abdominis) [fn:3]
-- crunch
+- crunch (rectus abdominis)
 - plank [fn:3]
 - russian twist (obliquus externus abdominis, o. internus abdominis)
-- bicycle crunch (obliquus externus abdominis, o. internus abdominis)
 - \textcolor{darkgreen}{seated russian twist} (obliquus externus abdominis, o. internus abdominis)  
 - \textcolor{darkgreen}{standing crunch} (obliquus externus abdominis, o. internus abdominis)  
-- \textcolor{darkgreen}{lying heel touch} (obliquus externus abdominis, o. internus abdominis) [fn:: Lie on your back with your knees bent and feet flat. Reach your hand towards your heel, alternating sides.]  
 #+begin_export latex
   \clearpage
 #+end_export  
@@ -63,7 +61,7 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 - reverse barbell wrist curl [fn:: Sitting, forearms on the bench, palms of the hand facing down gripping the barbell. Pull the wrists up.]
 - dumbbell wrist curl
 - overhead press (anterior deltoideus)
-- lateral raise
+- lateral raise (deltoideus)
 - upright rows (deltoideus)
 - inverted standing fly  
 - plate pinches
@@ -84,31 +82,34 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 - standing dumbbell tricep kickback (triceps brachii)
 - isolation dumbbell tricep kickback (triceps brachii)
 ** Home
-- push up
-- diamond push up
-- elbow plank
+- push up (pectoralis major)
+- diamond push up (pectoralis major)
+- elbow plank (rectus abdominis)
 #+begin_export latex
   \clearpage
 #+end_export
 * Glutes, Quads, Hamstring, Calves, Core, Traps
 ** Gym
-- farmer walk [fn:: Slightly shrug your shoulders. Make sure to hold the dumbbells with a firm grip to activate your forearms.]
+- farmer walk (trapezius, gluteus maximus) [fn:: Slightly shrug your shoulders. Make sure to hold the dumbbells with a firm grip to activate your forearms.]
 - walking lunge [fn:1]
-- squat [fn:1]
-- overhead squat[fn:1]
-- box squat[fn:1][fn:2]
+- squat (gluteus maximus) [fn:1]
+- overhead squat (gluteus maximus)[fn:1]
+- box squat (gluteus maximus)[fn:1][fn:2]
 - romanian deadlift[fn:: During the romanian deadlift the bar does not touch the ground like with a regular deadlift. The exercise focuses on hamstrings and glutes.][fn:2]
 - deadlift (gluteus maximus) [fn:1][fn:2]
-- seated calf raise
-- shrug
+- seated calf raise (triceps surae, tibialis posterior)
+- shrug (trapezius)
 - good morning (gluteus maximus, semimembranosus, semitendinosus, biceps femoris, erector spinae )[fn:: I only recommend this if a knee problem prevents other exercises. Go low in weight. Don't round the spine. Be extra observant of proper form.][fn:2]
-- hip thrust  
+- hip thrust (gluteus maximus)
 ** Home
-- mountain climber
+- mountain climber (rectus abdominis)
 - banded side step
 - wall seat [fn:1][fn:2]
-- side plank
-
+- side plank (obliquus externus abdominis, o. internus abdominis)
+- kickstand side plank (obliquus externus abdominis, o. internus abdominis)
+- bicycle crunch (obliquus externus abdominis, o. internus abdominis)  
+- \textcolor{darkgreen}{lying heel touch} (obliquus externus abdominis, o. internus abdominis) [fn:: Lie on your back with your knees bent and feet flat. Reach your hand towards your heel, alternating sides.]  
+  
 * Footnotes
 
 [fn:3] Make this exercise easier getting on your knees. 
