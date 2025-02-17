@@ -58,17 +58,17 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 * Shoulders, Forearms, Hands
 ** Gym
 - reverse barbell curl (brachioradialis, biceps brachii) [fn:: Grip the bar with your hands facing down.]
-- reverse barbell wrist curl [fn:: Sitting, forearms on the bench, palms of the hand facing down gripping the barbell. Pull the wrists up.]
-- dumbbell wrist curl
+- reverse barbell wrist curl (brachioradialis)[fn:: Sitting, forearms on the bench, palms of the hand facing down gripping the barbell. Pull the wrists up.]
+- dumbbell wrist curl (brachioradialis)
 - overhead press (anterior deltoideus)
 - lateral raise (deltoideus)
 - upright rows (deltoideus)
 - inverted standing fly  
-- plate pinches
-- external shoulder rotation
+- plate pinches (hand, forearm)
+- external shoulder rotation (deltoideus)
 ** Home
-- isometric pike hold
-- pike push up
+- isometric pike hold (deltoideus)
+- pike push up (deltoideus)
 #+begin_export latex
   \clearpage
 #+end_export
@@ -91,7 +91,7 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 * Glutes, Quads, Hamstring, Calves, Core, Traps
 ** Gym
 - farmer walk (trapezius, gluteus maximus) [fn:: Slightly shrug your shoulders. Make sure to hold the dumbbells with a firm grip to activate your forearms.]
-- walking lunge [fn:1]
+- walking lunge (gluteus maximus)[fn:1]
 - squat (gluteus maximus) [fn:1]
 - overhead squat (gluteus maximus)[fn:1]
 - box squat (gluteus maximus)[fn:1][fn:2]
@@ -104,7 +104,7 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 ** Home
 - mountain climber (rectus abdominis)
 - banded side step
-- wall seat [fn:1][fn:2]
+- wall seat (gluteus maximus) [fn:1][fn:2]
 - side plank (obliquus externus abdominis, o. internus abdominis)
 - kickstand side plank (obliquus externus abdominis, o. internus abdominis)
 - bicycle crunch (obliquus externus abdominis, o. internus abdominis)  
