@@ -18,7 +18,6 @@ Check out the supplemental material "Working Out" for more information on nutrit
 Copyright \small{\copyright}  \the\year{} Henry Hirsch.\\
 #+end_export  
 This text is licensed under the [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons Attribution-ShareAlike 4.0 License]].
-
 * Equipment
 Equipment that is used in this plan:
 - a bench
@@ -75,7 +74,7 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 #+begin_export latex
   \clearpage
 #+end_export
-* Back, Tricep, Bicep
+* Tricep, Bicep, Back
 ** Gym
 - bent over barbell row (posterior deltoideus, infraspinatus, teres minor, supraspinatus, subscapularis)
 - isolation curl (biceps brachii)
