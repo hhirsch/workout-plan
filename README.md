@@ -6,6 +6,8 @@ Copyright © 2025 Henry Hirsch.
 The plan is licensed under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
 Check the document for more up-to-date copyright and licensing information.
 
+I am working on supplemental documents that explain exercise selection, volume, nutrition et cetera.
+
 ## Download
 You can download the newest version in [Releases](https://github.com/hhirsch/workout-plan/releases).
 
