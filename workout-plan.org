@@ -12,7 +12,7 @@
 * Supplemental Information
 Visit https://yuhonas.github.io/free-exercise-db/ for a description of the exercises.
 Check out the supplemental material "Working Out" for more information on nutrition and exercise volume.
-
+Special thanks to Ben and Patrick for helping with the plan.
 -----
 #+begin_export latex
 Copyright \small{\copyright}  \the\year{} Henry Hirsch.\\
@@ -98,10 +98,10 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 - overhead squat[fn:1]
 - box squat[fn:1][fn:2]
 - romanian deadlift[fn:: During the romanian deadlift the bar does not touch the ground like with a regular deadlift. The exercise focuses on hamstrings and glutes.][fn:2]
-- deadlift [fn:1]
+- deadlift (gluteus maximus) [fn:1][fn:2]
 - seated calf raise
 - shrug
-- good morning (gluteus maximus, semimembranosus, semitendinosus, biceps femoris, erector spinae )[fn:: Go low in weight. Don't round the spine. Be extra observant of proper form.][fn:2]
+- good morning (gluteus maximus, semimembranosus, semitendinosus, biceps femoris, erector spinae )[fn:: I only recommend this if a knee problem prevents other exercises. Go low in weight. Don't round the spine. Be extra observant of proper form.][fn:2]
 - hip thrust  
 ** Home
 - mountain climber
