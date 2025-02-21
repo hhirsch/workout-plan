@@ -94,6 +94,8 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 - farmer walk (trapezius, gluteus maximus) [fn:: Slightly shrug your shoulders. Make sure to hold the dumbbells with a firm grip to activate your forearms.]
 - walking lunge (gluteus maximus)[fn:1]
 - squat (gluteus maximus) [fn:1]
+- barbell hack squat (quadriceps femoris, gluteus maximus) [fn:: Performed like a squat but with the bar behind the legs.]
+- manual hamstring curls (semimembranosus, semitendinosus, biceps femoris, gluteus maximus) [fn:: Get on your knees and use the barbell with heavy weight to hold your feet down then slowy let your upper body drop and use your arms to catch yourself. Focus on the negative.]
 - overhead squat (gluteus maximus)[fn:1]
 - box squat (gluteus maximus)[fn:1][fn:2]
 - romanian deadlift (gluteus maximus)[fn:: During the romanian deadlift the bar does not touch the ground like with a regular deadlift. The exercise focuses on hamstrings and glutes.][fn:2]
