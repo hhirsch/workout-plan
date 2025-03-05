@@ -44,6 +44,8 @@ anterior - front, posterior - rear, clavicular - near the clavicula, sternal - n
 - isolation dumbbell row (latissimus dorsi) [fn:: Elbow pointing behind you, close to the torso. Bring weight to your waist.]
 - landmine chest press (clavicular and sternal head of pectoralis major)   
 - weighted russian twist (obliquus externus abdominis, o. internus abdominis)
+- dumbbell standing oblique crunch (obliquus externus abdominis, o. internus abdominis)
+- dumbbell half knee lift chop (obliquus externus abdominis, o. internus abdominis)
 ** Home
 - lying leg raise (rectus abdominis)
 - lying lateral leg raise (obliquus externus abdominis, o. internus abdominis, gluteus medius)
